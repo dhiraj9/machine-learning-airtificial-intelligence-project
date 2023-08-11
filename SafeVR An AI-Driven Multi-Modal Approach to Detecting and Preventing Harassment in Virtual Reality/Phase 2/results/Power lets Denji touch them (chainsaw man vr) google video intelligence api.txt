@@ -1,0 +1,1057 @@
+Processing video for explicit content annotations:
+
+Finished processing.
+Time: 0.345989s
+	pornography: VERY_UNLIKELY
+Time: 1.219449s
+	pornography: VERY_UNLIKELY
+Time: 2.218914s
+	pornography: VERY_UNLIKELY
+Time: 3.122649s
+	pornography: VERY_UNLIKELY
+Time: 4.228548s
+	pornography: VERY_UNLIKELY
+Time: 5.065603s
+	pornography: VERY_UNLIKELY
+Time: 6.007654s
+	pornography: VERY_UNLIKELY
+Time: 6.814258s
+	pornography: VERY_UNLIKELY
+Time: 7.652704s
+	pornography: VERY_UNLIKELY
+Time: 8.502995s
+	pornography: VERY_UNLIKELY
+Time: 9.341406s
+	pornography: VERY_UNLIKELY
+Time: 10.294265s
+	pornography: VERY_UNLIKELY
+Time: 11.214423s
+	pornography: UNLIKELY
+Time: 12.110032s
+	pornography: VERY_UNLIKELY
+Time: 13.101629s
+	pornography: UNLIKELY
+Time: 13.958861s
+	pornography: UNLIKELY
+Time: 15.093457s
+	pornography: VERY_UNLIKELY
+Time: 15.973254s
+	pornography: VERY_UNLIKELY
+Time: 17.137598s
+	pornography: VERY_UNLIKELY
+Time: 18.089752s
+	pornography: VERY_UNLIKELY
+Time: 18.92063s
+	pornography: VERY_UNLIKELY
+Time: 19.754982s
+	pornography: UNLIKELY
+Time: 20.57931s
+	pornography: UNLIKELY
+Time: 21.564345s
+	pornography: UNLIKELY
+Time: 22.686593s
+	pornography: VERY_UNLIKELY
+Time: 23.539155s
+	pornography: UNLIKELY
+Time: 24.340083s
+	pornography: UNLIKELY
+Time: 25.242105s
+	pornography: VERY_UNLIKELY
+Time: 26.282397s
+	pornography: UNLIKELY
+Time: 27.242821s
+	pornography: UNLIKELY
+Time: 28.061702s
+	pornography: UNLIKELY
+Time: 29.108535s
+	pornography: UNLIKELY
+Time: 30.147515s
+	pornography: POSSIBLE
+Time: 31.190913s
+	pornography: VERY_UNLIKELY
+Time: 32.160356s
+	pornography: UNLIKELY
+Time: 32.981106s
+	pornography: UNLIKELY
+Time: 33.950894s
+	pornography: VERY_UNLIKELY
+Time: 35.061297s
+	pornography: VERY_UNLIKELY
+Time: 35.972032s
+	pornography: VERY_UNLIKELY
+Time: 36.870735s
+	pornography: VERY_UNLIKELY
+Time: 37.741229s
+	pornography: VERY_UNLIKELY
+Time: 38.755156s
+	pornography: VERY_UNLIKELY
+Time: 39.702233s
+	pornography: UNLIKELY
+Time: 40.594494s
+	pornography: VERY_UNLIKELY
+Time: 41.643267s
+	pornography: UNLIKELY
+Time: 42.532564s
+	pornography: VERY_UNLIKELY
+Time: 43.708722s
+	pornography: VERY_UNLIKELY
+Time: 44.562053s
+	pornography: UNLIKELY
+Time: 45.622009s
+	pornography: UNLIKELY
+Time: 46.810093s
+	pornography: VERY_UNLIKELY
+Time: 47.839524s
+	pornography: VERY_UNLIKELY
+Time: 48.88201s
+	pornography: VERY_UNLIKELY
+Time: 49.941919s
+	pornography: UNLIKELY
+Time: 51.031177s
+	pornography: UNLIKELY
+Time: 52.041633s
+	pornography: VERY_UNLIKELY
+Time: 53.095608s
+	pornography: VERY_UNLIKELY
+Time: 53.991253s
+	pornography: VERY_UNLIKELY
+Time: 55.117218s
+	pornography: VERY_UNLIKELY
+Time: 56.051802s
+	pornography: VERY_UNLIKELY
+Time: 57.112407s
+	pornography: VERY_UNLIKELY
+Time: 58.004003s
+	pornography: VERY_UNLIKELY
+Time: 59.177895s
+	pornography: VERY_UNLIKELY
+Time: 60.209976s
+	pornography: VERY_UNLIKELY
+Time: 61.080742s
+	pornography: VERY_UNLIKELY
+Time: 61.932551s
+	pornography: VERY_UNLIKELY
+Time: 62.883835s
+	pornography: VERY_UNLIKELY
+Time: 63.875681s
+	pornography: VERY_UNLIKELY
+Time: 64.777056s
+	pornography: VERY_UNLIKELY
+Time: 65.883213s
+	pornography: VERY_UNLIKELY
+Time: 66.761675s
+	pornography: VERY_UNLIKELY
+Time: 67.953995s
+	pornography: VERY_UNLIKELY
+Time: 68.849606s
+	pornography: VERY_UNLIKELY
+Time: 69.890146s
+	pornography: VERY_UNLIKELY
+Time: 70.739155s
+	pornography: VERY_UNLIKELY
+Time: 71.56908s
+	pornography: UNLIKELY
+Time: 72.389743s
+	pornography: UNLIKELY
+Time: 73.587442s
+	pornography: UNLIKELY
+Time: 74.494468s
+	pornography: UNLIKELY
+Time: 75.460044s
+	pornography: UNLIKELY
+Time: 76.29953s
+	pornography: UNLIKELY
+Time: 77.189896s
+	pornography: UNLIKELY
+Time: 78.299554s
+	pornography: UNLIKELY
+Time: 79.293815s
+	pornography: UNLIKELY
+Time: 80.241556s
+	pornography: VERY_UNLIKELY
+Time: 81.073878s
+	pornography: VERY_UNLIKELY
+Time: 82.138289s
+	pornography: VERY_UNLIKELY
+Time: 83.045939s
+	pornography: VERY_UNLIKELY
+Time: 83.955089s
+	pornography: UNLIKELY
+Time: 85.153035s
+	pornography: UNLIKELY
+Time: 85.957151s
+	pornography: UNLIKELY
+Time: 86.905665s
+	pornography: UNLIKELY
+Time: 88.004025s
+	pornography: POSSIBLE
+Time: 88.842938s
+	pornography: POSSIBLE
+Time: 90.013497s
+	pornography: POSSIBLE
+Time: 91.145409s
+	pornography: LIKELY
+Time: 92.125625s
+	pornography: LIKELY
+Time: 93.267043s
+	pornography: POSSIBLE
+Time: 94.345103s
+	pornography: UNLIKELY
+Time: 95.401086s
+	pornography: UNLIKELY
+Time: 96.282535s
+	pornography: VERY_UNLIKELY
+Time: 97.37523s
+	pornography: VERY_UNLIKELY
+Time: 98.549419s
+	pornography: UNLIKELY
+Time: 99.588811s
+	pornography: UNLIKELY
+Time: 100.616955s
+	pornography: UNLIKELY
+Time: 101.642826s
+	pornography: UNLIKELY
+Time: 102.553358s
+	pornography: UNLIKELY
+Time: 103.527729s
+	pornography: UNLIKELY
+Time: 104.652635s
+	pornography: UNLIKELY
+Time: 105.688027s
+	pornography: UNLIKELY
+Time: 106.543195s
+	pornography: UNLIKELY
+Time: 107.673598s
+	pornography: UNLIKELY
+Time: 108.619062s
+	pornography: UNLIKELY
+Time: 109.469395s
+	pornography: UNLIKELY
+Time: 110.604134s
+	pornography: UNLIKELY
+Time: 111.798186s
+	pornography: UNLIKELY
+Time: 112.712659s
+	pornography: UNLIKELY
+Time: 113.65573499999999s
+	pornography: UNLIKELY
+Time: 114.777998s
+	pornography: UNLIKELY
+Time: 115.685199s
+	pornography: UNLIKELY
+Time: 116.72234s
+	pornography: UNLIKELY
+Time: 117.707548s
+	pornography: UNLIKELY
+Time: 118.547982s
+	pornography: UNLIKELY
+Time: 119.468761s
+	pornography: UNLIKELY
+Time: 120.609798s
+	pornography: UNLIKELY
+Time: 121.496036s
+	pornography: VERY_UNLIKELY
+Time: 122.500038s
+	pornography: UNLIKELY
+Time: 123.452994s
+	pornography: VERY_UNLIKELY
+Time: 124.409488s
+	pornography: VERY_UNLIKELY
+Time: 125.384925s
+	pornography: POSSIBLE
+Time: 126.197474s
+	pornography: UNLIKELY
+Time: 127.073201s
+	pornography: UNLIKELY
+Time: 128.072442s
+	pornography: UNLIKELY
+Time: 129.104232s
+	pornography: UNLIKELY
+Time: 130.298729s
+	pornography: UNLIKELY
+Time: 131.145013s
+	pornography: UNLIKELY
+Time: 132.254385s
+	pornography: UNLIKELY
+Time: 133.315784s
+	pornography: UNLIKELY
+Time: 134.346465s
+	pornography: VERY_UNLIKELY
+Time: 135.525068s
+	pornography: POSSIBLE
+Time: 136.391681s
+	pornography: UNLIKELY
+Time: 137.320406s
+	pornography: VERY_UNLIKELY
+Time: 138.227166s
+	pornography: UNLIKELY
+Time: 139.391023s
+	pornography: VERY_UNLIKELY
+Time: 140.194893s
+	pornography: VERY_UNLIKELY
+Time: 141.039356s
+	pornography: VERY_UNLIKELY
+Time: 142.121291s
+	pornography: UNLIKELY
+Time: 143.313711s
+	pornography: UNLIKELY
+Time: 144.508309s
+	pornography: UNLIKELY
+Time: 145.546658s
+	pornography: LIKELY
+Time: 146.679426s
+	pornography: LIKELY
+Time: 147.683812s
+	pornography: UNLIKELY
+Time: 148.84283s
+	pornography: UNLIKELY
+Time: 149.993537s
+	pornography: UNLIKELY
+Time: 151.127309s
+	pornography: UNLIKELY
+Time: 151.975448s
+	pornography: UNLIKELY
+Time: 153.164342s
+	pornography: UNLIKELY
+Time: 153.992352s
+	pornography: VERY_UNLIKELY
+Time: 154.843645s
+	pornography: UNLIKELY
+Time: 155.747619s
+	pornography: UNLIKELY
+Time: 156.681576s
+	pornography: UNLIKELY
+Time: 157.679807s
+	pornography: UNLIKELY
+Time: 158.598104s
+	pornography: UNLIKELY
+Time: 159.644791s
+	pornography: VERY_UNLIKELY
+Time: 160.742078s
+	pornography: UNLIKELY
+Time: 161.635738s
+	pornography: UNLIKELY
+Time: 162.741759s
+	pornography: UNLIKELY
+Time: 163.873329s
+	pornography: VERY_UNLIKELY
+Time: 164.774817s
+	pornography: UNLIKELY
+Time: 165.610795s
+	pornography: POSSIBLE
+Time: 166.584981s
+	pornography: UNLIKELY
+Time: 167.549656s
+	pornography: UNLIKELY
+Time: 168.730513s
+	pornography: UNLIKELY
+Time: 169.680423s
+	pornography: UNLIKELY
+Time: 170.542852s
+	pornography: POSSIBLE
+Time: 171.343174s
+	pornography: UNLIKELY
+Time: 172.334227s
+	pornography: UNLIKELY
+Time: 173.186267s
+	pornography: POSSIBLE
+Time: 174.295502s
+	pornography: POSSIBLE
+Time: 175.098011s
+	pornography: POSSIBLE
+Time: 176.283726s
+	pornography: UNLIKELY
+Time: 177.473062s
+	pornography: UNLIKELY
+Time: 178.666756s
+	pornography: UNLIKELY
+Time: 179.702245s
+	pornography: UNLIKELY
+Time: 180.503176s
+	pornography: UNLIKELY
+Time: 181.357951s
+	pornography: UNLIKELY
+Time: 182.382436s
+	pornography: UNLIKELY
+Time: 183.337805s
+	pornography: UNLIKELY
+Time: 184.475407s
+	pornography: UNLIKELY
+Time: 185.600792s
+	pornography: UNLIKELY
+Time: 186.565556s
+	pornography: UNLIKELY
+Time: 187.723028s
+	pornography: UNLIKELY
+Time: 188.864521s
+	pornography: UNLIKELY
+Time: 190.016844s
+	pornography: UNLIKELY
+Time: 190.891539s
+	pornography: UNLIKELY
+Time: 192.008332s
+	pornography: UNLIKELY
+Time: 192.945088s
+	pornography: UNLIKELY
+Time: 193.997928s
+	pornography: POSSIBLE
+Time: 195.072584s
+	pornography: VERY_UNLIKELY
+Time: 195.937043s
+	pornography: UNLIKELY
+Time: 196.807917s
+	pornography: UNLIKELY
+Time: 197.812925s
+	pornography: UNLIKELY
+Time: 198.789384s
+	pornography: UNLIKELY
+Time: 199.815611s
+	pornography: UNLIKELY
+Time: 200.962986s
+	pornography: VERY_UNLIKELY
+Time: 201.905297s
+	pornography: UNLIKELY
+Time: 203.012222s
+	pornography: UNLIKELY
+Time: 204.202289s
+	pornography: UNLIKELY
+Time: 205.223543s
+	pornography: POSSIBLE
+Time: 206.047973s
+	pornography: UNLIKELY
+Time: 207.028197s
+	pornography: VERY_UNLIKELY
+Time: 208.006175s
+	pornography: UNLIKELY
+Time: 209.107686s
+	pornography: UNLIKELY
+Time: 210.180565s
+	pornography: UNLIKELY
+Time: 211.218434s
+	pornography: UNLIKELY
+Time: 212.103738s
+	pornography: UNLIKELY
+Time: 212.959998s
+	pornography: UNLIKELY
+Time: 214.13391s
+	pornography: UNLIKELY
+Time: 215.143652s
+	pornography: UNLIKELY
+Time: 216.129685s
+	pornography: UNLIKELY
+Time: 217.012868s
+	pornography: UNLIKELY
+Time: 218.117588s
+	pornography: UNLIKELY
+Time: 219.116548s
+	pornography: UNLIKELY
+Time: 219.947085s
+	pornography: UNLIKELY
+Time: 220.922635s
+	pornography: UNLIKELY
+Time: 221.87215s
+	pornography: UNLIKELY
+Time: 222.749941s
+	pornography: UNLIKELY
+Time: 223.597132s
+	pornography: VERY_UNLIKELY
+Time: 224.517935s
+	pornography: UNLIKELY
+Time: 225.515824s
+	pornography: UNLIKELY
+Time: 226.318917s
+	pornography: VERY_UNLIKELY
+Time: 227.445505s
+	pornography: VERY_UNLIKELY
+Time: 228.281436s
+	pornography: UNLIKELY
+Time: 229.414923s
+	pornography: VERY_UNLIKELY
+Time: 230.482749s
+	pornography: VERY_UNLIKELY
+Time: 231.595642s
+	pornography: VERY_UNLIKELY
+Time: 232.500008s
+	pornography: VERY_UNLIKELY
+Time: 233.351132s
+	pornography: VERY_UNLIKELY
+Time: 234.319072s
+	pornography: VERY_UNLIKELY
+Time: 235.179306s
+	pornography: UNLIKELY
+Time: 236.352387s
+	pornography: VERY_UNLIKELY
+Time: 237.450305s
+	pornography: UNLIKELY
+Time: 238.395732s
+	pornography: UNLIKELY
+Time: 239.4674s
+	pornography: UNLIKELY
+Time: 240.537461s
+	pornography: LIKELY
+Time: 241.543083s
+	pornography: UNLIKELY
+Time: 242.43014s
+	pornography: VERY_UNLIKELY
+Time: 243.512619s
+	pornography: UNLIKELY
+Time: 244.702731s
+	pornography: UNLIKELY
+Time: 245.890818s
+	pornography: UNLIKELY
+Time: 247.078096s
+	pornography: UNLIKELY
+Time: 248.254271s
+	pornography: VERY_UNLIKELY
+Time: 249.11542s
+	pornography: VERY_UNLIKELY
+Time: 249.980263s
+	pornography: VERY_UNLIKELY
+Time: 250.791297s
+	pornography: UNLIKELY
+Time: 251.597937s
+	pornography: UNLIKELY
+Time: 252.517832s
+	pornography: UNLIKELY
+Time: 253.406503s
+	pornography: UNLIKELY
+Time: 254.217804s
+	pornography: UNLIKELY
+Time: 255.158571s
+	pornography: VERY_UNLIKELY
+Time: 256.032399s
+	pornography: UNLIKELY
+Time: 256.990688s
+	pornography: VERY_UNLIKELY
+Time: 258.140697s
+	pornography: VERY_UNLIKELY
+Time: 258.942192s
+	pornography: VERY_UNLIKELY
+Time: 259.985382s
+	pornography: VERY_UNLIKELY
+Time: 260.865161s
+	pornography: VERY_UNLIKELY
+Time: 261.777801s
+	pornography: VERY_UNLIKELY
+Time: 262.907563s
+	pornography: UNLIKELY
+Time: 264.04212s
+	pornography: VERY_UNLIKELY
+Time: 265.181893s
+	pornography: VERY_UNLIKELY
+Time: 266.135127s
+	pornography: VERY_UNLIKELY
+Time: 267.094108s
+	pornography: VERY_UNLIKELY
+Time: 267.945084s
+	pornography: UNLIKELY
+Time: 269.067058s
+	pornography: VERY_UNLIKELY
+Time: 270.173144s
+	pornography: VERY_UNLIKELY
+Time: 271.080668s
+	pornography: VERY_UNLIKELY
+Time: 271.983385s
+	pornography: VERY_UNLIKELY
+Time: 273.148256s
+	pornography: VERY_UNLIKELY
+Time: 274.201821s
+	pornography: UNLIKELY
+Time: 275.394612s
+	pornography: VERY_UNLIKELY
+Time: 276.196625s
+	pornography: VERY_UNLIKELY
+Time: 277.371219s
+	pornography: VERY_UNLIKELY
+Time: 278.421522s
+	pornography: VERY_UNLIKELY
+Time: 279.36292s
+	pornography: VERY_UNLIKELY
+Time: 280.544944s
+	pornography: VERY_UNLIKELY
+Time: 281.429095s
+	pornography: VERY_UNLIKELY
+Time: 282.581792s
+	pornography: VERY_UNLIKELY
+Time: 283.672447s
+	pornography: VERY_UNLIKELY
+Time: 284.788526s
+	pornography: VERY_UNLIKELY
+Time: 285.763206s
+	pornography: VERY_UNLIKELY
+Time: 286.808326s
+	pornography: VERY_UNLIKELY
+Time: 287.858254s
+	pornography: VERY_UNLIKELY
+Time: 289.044828s
+	pornography: VERY_UNLIKELY
+Time: 290.086791s
+	pornography: VERY_UNLIKELY
+Time: 291.275917s
+	pornography: VERY_UNLIKELY
+Time: 292.19607s
+	pornography: VERY_UNLIKELY
+Time: 293.041081s
+	pornography: VERY_UNLIKELY
+Time: 294.238588s
+	pornography: VERY_UNLIKELY
+Time: 295.22124s
+	pornography: VERY_UNLIKELY
+Time: 296.133492s
+	pornography: VERY_UNLIKELY
+Time: 296.977976s
+	pornography: VERY_UNLIKELY
+Time: 297.988382s
+	pornography: VERY_UNLIKELY
+Time: 298.938196s
+	pornography: VERY_UNLIKELY
+Time: 300.067838s
+	pornography: VERY_UNLIKELY
+Time: 301.252812s
+	pornography: VERY_UNLIKELY
+Time: 302.410127s
+	pornography: VERY_UNLIKELY
+Time: 303.450549s
+	pornography: VERY_UNLIKELY
+Time: 304.315308s
+	pornography: VERY_UNLIKELY
+Time: 305.202783s
+	pornography: VERY_UNLIKELY
+Time: 306.152799s
+	pornography: VERY_UNLIKELY
+Time: 307.334692s
+	pornography: VERY_UNLIKELY
+Time: 308.450815s
+	pornography: VERY_UNLIKELY
+Time: 309.32139s
+	pornography: VERY_UNLIKELY
+Time: 310.296331s
+	pornography: VERY_UNLIKELY
+Time: 311.244386s
+	pornography: VERY_UNLIKELY
+Time: 312.231016s
+	pornography: VERY_UNLIKELY
+Time: 313.385814s
+	pornography: VERY_UNLIKELY
+Time: 314.317002s
+	pornography: VERY_UNLIKELY
+Time: 315.407195s
+	pornography: VERY_UNLIKELY
+Time: 316.215031s
+	pornography: VERY_UNLIKELY
+Time: 317.271311s
+	pornography: VERY_UNLIKELY
+Time: 318.257497s
+	pornography: VERY_UNLIKELY
+Time: 319.457442s
+	pornography: VERY_UNLIKELY
+Time: 320.372194s
+	pornography: VERY_UNLIKELY
+Time: 321.287042s
+	pornography: VERY_UNLIKELY
+Time: 322.372608s
+	pornography: VERY_UNLIKELY
+Time: 323.288366s
+	pornography: VERY_UNLIKELY
+Time: 324.461617s
+	pornography: VERY_UNLIKELY
+Time: 325.365591s
+	pornography: VERY_UNLIKELY
+Time: 326.368137s
+	pornography: VERY_UNLIKELY
+Time: 327.226733s
+	pornography: VERY_UNLIKELY
+Time: 328.351483s
+	pornography: VERY_UNLIKELY
+Time: 329.358347s
+	pornography: VERY_UNLIKELY
+Time: 330.275783s
+	pornography: VERY_UNLIKELY
+Time: 331.271047s
+	pornography: VERY_UNLIKELY
+Time: 332.248733s
+	pornography: VERY_UNLIKELY
+Time: 333.248465s
+	pornography: VERY_UNLIKELY
+Time: 334.389912s
+	pornography: VERY_UNLIKELY
+Time: 335.573729s
+	pornography: VERY_UNLIKELY
+Time: 336.709096s
+	pornography: VERY_UNLIKELY
+Time: 337.635049s
+	pornography: VERY_UNLIKELY
+Time: 338.534302s
+	pornography: VERY_UNLIKELY
+Time: 339.446684s
+	pornography: VERY_UNLIKELY
+Time: 340.575896s
+	pornography: VERY_UNLIKELY
+Time: 341.63266s
+	pornography: VERY_UNLIKELY
+Time: 342.777644s
+	pornography: VERY_UNLIKELY
+Time: 343.900265s
+	pornography: VERY_UNLIKELY
+Time: 344.861521s
+	pornography: VERY_UNLIKELY
+Time: 345.797449s
+	pornography: VERY_UNLIKELY
+Time: 346.97906s
+	pornography: VERY_UNLIKELY
+Time: 348.037395s
+	pornography: VERY_UNLIKELY
+Time: 349.067249s
+	pornography: VERY_UNLIKELY
+Time: 349.952646s
+	pornography: VERY_UNLIKELY
+Time: 350.882687s
+	pornography: VERY_UNLIKELY
+Time: 352.044067s
+	pornography: VERY_UNLIKELY
+Time: 353.100198s
+	pornography: VERY_UNLIKELY
+Time: 354.020126s
+	pornography: VERY_UNLIKELY
+Time: 355.113985s
+	pornography: VERY_UNLIKELY
+Time: 356.247332s
+	pornography: VERY_UNLIKELY
+Time: 357.204979s
+	pornography: UNLIKELY
+Time: 358.026997s
+	pornography: VERY_UNLIKELY
+Time: 358.848906s
+	pornography: VERY_UNLIKELY
+Time: 359.773825s
+	pornography: VERY_UNLIKELY
+Time: 360.961288s
+	pornography: VERY_UNLIKELY
+Time: 362.062173s
+	pornography: VERY_UNLIKELY
+Time: 362.87218s
+	pornography: VERY_UNLIKELY
+Time: 363.911137s
+	pornography: VERY_UNLIKELY
+Time: 364.929733s
+	pornography: VERY_UNLIKELY
+Time: 365.78001s
+	pornography: VERY_UNLIKELY
+Time: 366.87089s
+	pornography: VERY_UNLIKELY
+Time: 368.015282s
+	pornography: VERY_UNLIKELY
+Time: 369.174121s
+	pornography: VERY_UNLIKELY
+Time: 370.365986s
+	pornography: VERY_UNLIKELY
+Time: 371.461146s
+	pornography: VERY_UNLIKELY
+Time: 372.620937s
+	pornography: VERY_UNLIKELY
+Time: 373.583238s
+	pornography: VERY_UNLIKELY
+Time: 374.770387s
+	pornography: VERY_UNLIKELY
+Time: 375.928231s
+	pornography: VERY_UNLIKELY
+Time: 376.735224s
+	pornography: VERY_UNLIKELY
+Time: 377.91692s
+	pornography: VERY_UNLIKELY
+Time: 378.920323s
+	pornography: VERY_UNLIKELY
+Time: 379.967731s
+	pornography: VERY_UNLIKELY
+Time: 381.127454s
+	pornography: VERY_UNLIKELY
+Time: 381.971351s
+	pornography: VERY_UNLIKELY
+Time: 382.897391s
+	pornography: VERY_UNLIKELY
+Time: 383.861724s
+	pornography: VERY_UNLIKELY
+Time: 384.929341s
+	pornography: VERY_UNLIKELY
+Time: 385.819862s
+	pornography: VERY_UNLIKELY
+Time: 386.649147s
+	pornography: VERY_UNLIKELY
+Time: 387.770033s
+	pornography: VERY_UNLIKELY
+Time: 388.733905s
+	pornography: VERY_UNLIKELY
+Time: 389.92884s
+	pornography: VERY_UNLIKELY
+Time: 390.731967s
+	pornography: VERY_UNLIKELY
+Time: 391.710495s
+	pornography: VERY_UNLIKELY
+Time: 392.760322s
+	pornography: VERY_UNLIKELY
+Time: 393.616121s
+	pornography: VERY_UNLIKELY
+Time: 394.542022s
+	pornography: VERY_UNLIKELY
+Time: 395.566606s
+	pornography: VERY_UNLIKELY
+Time: 396.453518s
+	pornography: VERY_UNLIKELY
+Time: 397.56711s
+	pornography: VERY_UNLIKELY
+Time: 398.502647s
+	pornography: VERY_UNLIKELY
+Time: 399.32384s
+	pornography: VERY_UNLIKELY
+Time: 400.295916s
+	pornography: VERY_UNLIKELY
+Time: 401.233437s
+	pornography: VERY_UNLIKELY
+Time: 402.3324s
+	pornography: VERY_UNLIKELY
+Time: 403.404702s
+	pornography: VERY_UNLIKELY
+Time: 404.481152s
+	pornography: VERY_UNLIKELY
+Time: 405.37849s
+	pornography: VERY_UNLIKELY
+Time: 406.522339s
+	pornography: UNLIKELY
+Time: 407.530416s
+	pornography: UNLIKELY
+Time: 408.673724s
+	pornography: UNLIKELY
+Time: 409.845289s
+	pornography: UNLIKELY
+Time: 410.676353s
+	pornography: UNLIKELY
+Time: 411.634055s
+	pornography: VERY_UNLIKELY
+Time: 412.709828s
+	pornography: VERY_UNLIKELY
+Time: 413.62906s
+	pornography: VERY_UNLIKELY
+Time: 414.752314s
+	pornography: UNLIKELY
+Time: 415.78568s
+	pornography: VERY_UNLIKELY
+Time: 416.798294s
+	pornography: VERY_UNLIKELY
+Time: 417.903825s
+	pornography: VERY_UNLIKELY
+Time: 418.840671s
+	pornography: VERY_UNLIKELY
+Time: 419.868542s
+	pornography: VERY_UNLIKELY
+Time: 420.773569s
+	pornography: VERY_UNLIKELY
+Time: 421.852648s
+	pornography: VERY_UNLIKELY
+Time: 422.867649s
+	pornography: VERY_UNLIKELY
+Time: 423.700418s
+	pornography: VERY_UNLIKELY
+Time: 424.545706s
+	pornography: VERY_UNLIKELY
+Time: 425.522672s
+	pornography: VERY_UNLIKELY
+Time: 426.405128s
+	pornography: VERY_UNLIKELY
+Time: 427.283917s
+	pornography: VERY_UNLIKELY
+Time: 428.209093s
+	pornography: VERY_UNLIKELY
+Time: 429.380245s
+	pornography: UNLIKELY
+Time: 430.318529s
+	pornography: VERY_UNLIKELY
+Time: 431.438145s
+	pornography: UNLIKELY
+Time: 432.546922s
+	pornography: UNLIKELY
+Time: 433.546896s
+	pornography: UNLIKELY
+Time: 434.720704s
+	pornography: POSSIBLE
+Time: 435.713862s
+	pornography: UNLIKELY
+Time: 436.728091s
+	pornography: UNLIKELY
+Time: 437.612697s
+	pornography: POSSIBLE
+Time: 438.455053s
+	pornography: UNLIKELY
+Time: 439.389806s
+	pornography: VERY_UNLIKELY
+Time: 440.518354s
+	pornography: UNLIKELY
+Time: 441.641521s
+	pornography: VERY_UNLIKELY
+Time: 442.462423s
+	pornography: UNLIKELY
+Time: 443.638122s
+	pornography: UNLIKELY
+Time: 444.775021s
+	pornography: VERY_UNLIKELY
+Time: 445.666291s
+	pornography: VERY_UNLIKELY
+Time: 446.833875s
+	pornography: VERY_UNLIKELY
+Time: 447.687748s
+	pornography: UNLIKELY
+Time: 448.865932s
+	pornography: UNLIKELY
+Time: 449.842717s
+	pornography: VERY_UNLIKELY
+Time: 450.727271s
+	pornography: UNLIKELY
+Time: 451.573929s
+	pornography: UNLIKELY
+Time: 452.402765s
+	pornography: VERY_UNLIKELY
+Time: 453.601629s
+	pornography: UNLIKELY
+Time: 454.694191s
+	pornography: VERY_UNLIKELY
+Time: 455.7191s
+	pornography: VERY_UNLIKELY
+Time: 456.672034s
+	pornography: VERY_UNLIKELY
+Time: 457.571315s
+	pornography: VERY_UNLIKELY
+Time: 458.59253s
+	pornography: VERY_UNLIKELY
+Time: 459.495377s
+	pornography: VERY_UNLIKELY
+Time: 460.422439s
+	pornography: UNLIKELY
+Time: 461.482254s
+	pornography: VERY_UNLIKELY
+Time: 462.434746s
+	pornography: VERY_UNLIKELY
+Time: 463.591479s
+	pornography: UNLIKELY
+Time: 464.737055s
+	pornography: VERY_UNLIKELY
+Time: 465.93604s
+	pornography: VERY_UNLIKELY
+Time: 466.906767s
+	pornography: UNLIKELY
+Time: 467.918805s
+	pornography: UNLIKELY
+Time: 468.884932s
+	pornography: UNLIKELY
+Time: 469.967644s
+	pornography: UNLIKELY
+Time: 471.123412s
+	pornography: UNLIKELY
+Time: 472.190554s
+	pornography: UNLIKELY
+Time: 473.13587s
+	pornography: UNLIKELY
+Time: 473.978214s
+	pornography: POSSIBLE
+Time: 474.975618s
+	pornography: UNLIKELY
+Time: 476.133052s
+	pornography: UNLIKELY
+Time: 477.251044s
+	pornography: VERY_UNLIKELY
+Time: 478.125185s
+	pornography: UNLIKELY
+Time: 479.175414s
+	pornography: UNLIKELY
+Time: 480.180561s
+	pornography: VERY_UNLIKELY
+Time: 481.080214s
+	pornography: UNLIKELY
+Time: 482.170144s
+	pornography: POSSIBLE
+Time: 483.327693s
+	pornography: UNLIKELY
+Time: 484.408303s
+	pornography: UNLIKELY
+Time: 485.584239s
+	pornography: UNLIKELY
+Time: 486.678364s
+	pornography: UNLIKELY
+Time: 487.635271s
+	pornography: UNLIKELY
+Time: 488.490088s
+	pornography: POSSIBLE
+Time: 489.336798s
+	pornography: POSSIBLE
+Time: 490.260179s
+	pornography: POSSIBLE
+Time: 491.251841s
+	pornography: UNLIKELY
+Time: 492.166461s
+	pornography: POSSIBLE
+Time: 492.99484s
+	pornography: POSSIBLE
+Time: 493.868315s
+	pornography: UNLIKELY
+Time: 495.06607s
+	pornography: POSSIBLE
+Time: 496.19219s
+	pornography: POSSIBLE
+Time: 497.311404s
+	pornography: UNLIKELY
+Time: 498.382946s
+	pornography: POSSIBLE
+Time: 499.345779s
+	pornography: UNLIKELY
+Time: 500.411436s
+	pornography: UNLIKELY
+Time: 501.609234s
+	pornography: POSSIBLE
+Time: 502.667355s
+	pornography: UNLIKELY
+Time: 503.812439s
+	pornography: LIKELY
+Time: 504.692147s
+	pornography: UNLIKELY
+Time: 505.884238s
+	pornography: UNLIKELY
+Time: 506.768375s
+	pornography: UNLIKELY
+Time: 507.723787s
+	pornography: UNLIKELY
+Time: 508.613008s
+	pornography: VERY_UNLIKELY
+Time: 509.753069s
+	pornography: VERY_UNLIKELY
+Time: 510.631848s
+	pornography: VERY_UNLIKELY
+Time: 511.826866s
+	pornography: VERY_UNLIKELY
+Time: 512.67838s
+	pornography: UNLIKELY
+Time: 513.756558s
+	pornography: UNLIKELY
+Time: 514.70543s
+	pornography: VERY_UNLIKELY
+Time: 515.700202s
+	pornography: VERY_UNLIKELY
+Time: 516.518077s
+	pornography: VERY_UNLIKELY
+Time: 517.328705s
+	pornography: VERY_UNLIKELY
+Time: 518.252493s
+	pornography: VERY_UNLIKELY
+Time: 519.328719s
+	pornography: VERY_UNLIKELY
+Time: 520.515666s
+	pornography: VERY_UNLIKELY
+Time: 521.386183s
+	pornography: VERY_UNLIKELY
+Time: 522.518746s
+	pornography: VERY_UNLIKELY
+Time: 523.519427s
+	pornography: VERY_UNLIKELY
+Time: 524.576062s
+	pornography: VERY_UNLIKELY
+Time: 525.527146s
+	pornography: VERY_UNLIKELY
+Time: 526.474749s
+	pornography: VERY_UNLIKELY

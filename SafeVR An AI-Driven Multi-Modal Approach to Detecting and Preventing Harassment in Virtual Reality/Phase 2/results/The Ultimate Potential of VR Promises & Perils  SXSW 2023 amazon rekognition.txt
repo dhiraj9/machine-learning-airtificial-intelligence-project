@@ -1,0 +1,66 @@
+The Ultimate Potential of VR Promises & Perils  SXSW 2023 amazon rekognition	
+
+Test Event Name
+m
+
+Response
+[
+  {
+    "Timestamp": 196500,
+    "Label": "Explicit Nudity",
+    "Confidence": 50.9058837890625
+  },
+  {
+    "Timestamp": 196500,
+    "Label": "Sexual Activity",
+    "Confidence": 50.9058837890625
+  },
+  {
+    "Timestamp": 197000,
+    "Label": "Explicit Nudity",
+    "Confidence": 51.673770904541016
+  },
+  {
+    "Timestamp": 197000,
+    "Label": "Sexual Activity",
+    "Confidence": 51.673770904541016
+  },
+  {
+    "Timestamp": 197500,
+    "Label": "Explicit Nudity",
+    "Confidence": 57.59173583984375
+  },
+  {
+    "Timestamp": 197500,
+    "Label": "Sexual Activity",
+    "Confidence": 57.59173583984375
+  },
+  {
+    "Timestamp": 198000,
+    "Label": "Explicit Nudity",
+    "Confidence": 58.331031799316406
+  },
+  {
+    "Timestamp": 198000,
+    "Label": "Sexual Activity",
+    "Confidence": 58.331031799316406
+  },
+  {
+    "Timestamp": 198500,
+    "Label": "Explicit Nudity",
+    "Confidence": 58.70249557495117
+  },
+  {
+    "Timestamp": 198500,
+    "Label": "Sexual Activity",
+    "Confidence": 58.70249557495117
+  }
+]
+
+Function Logs
+START RequestId: dec8583f-ce14-4d94-bb87-eac99bfd2e33 Version: $LATEST
+END RequestId: dec8583f-ce14-4d94-bb87-eac99bfd2e33
+REPORT RequestId: dec8583f-ce14-4d94-bb87-eac99bfd2e33	Duration: 232024.05 ms	Billed Duration: 232025 ms	Memory Size: 128 MB	Max Memory Used: 69 MB	Init Duration: 623.87 ms
+
+Request ID
+dec8583f-ce14-4d94-bb87-eac99bfd2e33

@@ -1,0 +1,51 @@
+
+  {
+    "Timestamp": 74666,
+    "Label": "Explicit Nudity",
+    "Confidence": 53.67560577392578
+  },
+  {
+    "Timestamp": 74666,
+    "Label": "Sexual Activity",
+    "Confidence": 53.67327880859375
+  },
+  {
+    "Timestamp": 150866,
+    "Label": "Revealing Clothes",
+    "Confidence": 64.26527404785156
+  },
+  {
+    "Timestamp": 150866,
+    "Label": "Suggestive",
+    "Confidence": 64.2680892944336
+  },
+  {
+    "Timestamp": 151366,
+    "Label": "Revealing Clothes",
+    "Confidence": 79.10133361816406
+  },
+  {
+    "Timestamp": 151366,
+    "Label": "Suggestive",
+    "Confidence": 79.10272216796875
+  },
+  {
+    "Timestamp": 151866,
+    "Label": "Revealing Clothes",
+    "Confidence": 75.76739501953125
+  },
+  {
+    "Timestamp": 151866,
+    "Label": "Suggestive",
+    "Confidence": 75.76739501953125
+  },
+  {
+    "Timestamp": 152366,
+    "Label": "Revealing Clothes",
+    "Confidence": 79.92695617675781
+  },
+  {
+    "Timestamp": 152366,
+    "Label": "Suggestive",
+    "Confidence": 79.92695617675781
+  }
